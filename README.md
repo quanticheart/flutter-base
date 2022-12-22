@@ -192,3 +192,9 @@ vc também pode usar [flutter_launcher_icons](https://pub.dev/packages/flutter_l
 [Doc Oficial](https://docs.flutter.dev/deployment/windows)
 
 [Create .exe](https://retroportalstudio.medium.com/creating-exe-executable-file-for-flutter-desktop-apps-windows-ea7c338465e)
+
+
+#### Outros links de referencia
+
+- [hange-flutter-app-launcher-icon](https://medium.com/flutter-community/change-flutter-app-launcher-icon-59c31bcd7554)
+- [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
